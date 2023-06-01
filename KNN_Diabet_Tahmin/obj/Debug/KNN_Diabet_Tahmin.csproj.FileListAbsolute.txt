@@ -1,0 +1,22 @@
+D:\PAÜ DERS\3. Sınıf\3.Sınıf 2. Dönem\Yazılım Mühendisliği\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\bin\Debug\KNN_Diabet_Tahmin.exe.config
+D:\PAÜ DERS\3. Sınıf\3.Sınıf 2. Dönem\Yazılım Mühendisliği\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\bin\Debug\KNN_Diabet_Tahmin.exe
+D:\PAÜ DERS\3. Sınıf\3.Sınıf 2. Dönem\Yazılım Mühendisliği\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\bin\Debug\KNN_Diabet_Tahmin.pdb
+D:\PAÜ DERS\3. Sınıf\3.Sınıf 2. Dönem\Yazılım Mühendisliği\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.csprojAssemblyReference.cache
+D:\PAÜ DERS\3. Sınıf\3.Sınıf 2. Dönem\Yazılım Mühendisliği\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.Form1.resources
+D:\PAÜ DERS\3. Sınıf\3.Sınıf 2. Dönem\Yazılım Mühendisliği\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.Properties.Resources.resources
+D:\PAÜ DERS\3. Sınıf\3.Sınıf 2. Dönem\Yazılım Mühendisliği\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.csproj.GenerateResource.cache
+D:\PAÜ DERS\3. Sınıf\3.Sınıf 2. Dönem\Yazılım Mühendisliği\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.csproj.CoreCompileInputs.cache
+D:\PAÜ DERS\3. Sınıf\3.Sınıf 2. Dönem\Yazılım Mühendisliği\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.exe
+D:\PAÜ DERS\3. Sınıf\3.Sınıf 2. Dönem\Yazılım Mühendisliği\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.pdb
+D:\PAÜ DERS\3. Sınıf\3.Sınıf 2. Dönem\Yazılım Mühendisliği\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.Form2.resources
+D:\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\bin\Debug\KNN_Diabet_Tahmin.exe.config
+D:\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\bin\Debug\KNN_Diabet_Tahmin.exe
+D:\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\bin\Debug\KNN_Diabet_Tahmin.pdb
+D:\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.csprojAssemblyReference.cache
+D:\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.Form1.resources
+D:\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.Form2.resources
+D:\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.Properties.Resources.resources
+D:\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.csproj.GenerateResource.cache
+D:\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.csproj.CoreCompileInputs.cache
+D:\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.exe
+D:\KNN diabet hastalık tahmini\KNN_Diabet_Tahmin\KNN_Diabet_Tahmin\obj\Debug\KNN_Diabet_Tahmin.pdb

@@ -1,0 +1,15 @@
+Hocam Merhabalar,
+
+Öğrenmiş model de bu dosya içerisinde learned_model.py uznatılı dosyadır. dosya yollarında değişiklik olduğundan dolayı şu an çalışmayabilir.
+
+Değişkenlerdeki dosya yollarını kendi bilgisayarıma göre ayarlamıştım.
+
+Diğer py dosyaları da modeli eğitirken kullandığım projelerdir.
+
+Veri tabanının log ve mdf dosyaları da "Veri Tabanı" adlı klasörde bulunmaktadır.
+
+Öğrenireken kullandığı csv dosyası da "diabet.csv" uzantısı ile bulunmaktadır
+
+Teşekkür ederim
+
+İyi çalışmalar dilerim
